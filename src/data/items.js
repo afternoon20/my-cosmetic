@@ -71,7 +71,7 @@ export const nightItems = [
     category: "フェイスクリーム",
     name: "キュレル 潤浸保湿フェイスクリーム",
     maker: "花王",
-    img: "assets/images/morning_001.jpg",
+    img: "assets/images/morning_004.jpg",
     url: "https://www.kao-kirei.com/ja/item/kbb/curel/4901301236210/?tw=kbb",
   },
   {
