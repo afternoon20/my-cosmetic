@@ -12,7 +12,7 @@ export const morningItems = [
     category: "拭き取り化粧水",
     name: "薬用クリアケアふき取りローション",
     maker: "無印良品",
-    img: "/public/morning_001.jpg",
+    img: "/assets/images/morning_001.jpg",
     url: "https://www.muji.com/jp/ja/store/cmdty/detail/4550583924393?sc_cid=google_pla_pj_direct_cp_14797768044_adg_147795504460_cr_none_opt_online&gad_source=1&gad_campaignid=14797768044&gbraid=0AAAAABRJBpflmFa4Rg_EcVQE-ISJWZJVQ&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5RdMWJHdh2YnfBKWQFjxOkaS_JHpFLo_ObFBqIuRkwLpK0koBKLtegaAlcgEALw_wcB",
   },
   {
@@ -20,7 +20,7 @@ export const morningItems = [
     category: "化粧水",
     name: "ヘパトリート 薬用保湿化粧水",
     maker: "日本ゼトック",
-    img: "/public/morning_002.jpg",
+    img: "/public/assets/images/morning_002.jpg",
     url: "https://www.amazon.co.jp/dp/B0CNGR9D38",
   },
   {
@@ -28,7 +28,7 @@ export const morningItems = [
     category: "美容液",
     name: "メラノCC プレミアム美容液",
     maker: "ロート製薬",
-    img: "/public/morning_003.jpg",
+    img: "/public/assets/images/morning_003.jpg",
     url: "https://www.shop.rohto.co.jp/category/skincare/melanocc/168583.html",
   },
   {
@@ -36,7 +36,7 @@ export const morningItems = [
     category: "フェイスクリーム",
     name: "キュレル 潤浸保湿フェイスクリーム",
     maker: "花王",
-    img: "/public/morning_004.jpg",
+    img: "/public/assets/images/morning_004.jpg",
     url: "https://www.kao-kirei.com/ja/item/kbb/curel/4901301236210/?tw=kbb",
   },
 ];
@@ -47,7 +47,7 @@ export const nightItems = [
     category: "化粧水",
     name: "ヘパトリート 薬用保湿化粧水",
     maker: "日本ゼトック",
-    img: "/public/morning_002.jpg",
+    img: "/public/assets/images/morning_002.jpg",
     url: "https://www.amazon.co.jp/dp/B0CNGR9D38",
   },
   {
@@ -55,7 +55,7 @@ export const nightItems = [
     category: "美容液",
     name: "メラノCC プレミアム美容液",
     maker: "ロート製薬",
-    img: "/public/morning_003.jpg",
+    img: "/public/assets/images/morning_003.jpg",
     url: "https://www.shop.rohto.co.jp/category/skincare/melanocc/168583.html",
   },
   {
@@ -63,7 +63,7 @@ export const nightItems = [
     category: "フェイスクリーム",
     name: "キュレル 潤浸保湿フェイスクリーム",
     maker: "花王",
-    img: "/public/morning_004.jpg",
+    img: "/public/assets/images/morning_001.jpg",
     url: "https://www.kao-kirei.com/ja/item/kbb/curel/4901301236210/?tw=kbb",
   },
   {
@@ -71,7 +71,7 @@ export const nightItems = [
     category: "ニキビ治療薬",
     name: "エピデュオゲル",
     maker: "マルホ株式会社",
-    img: "/public/night_004.jpg",
+    img: "/public/assets/images/night_004.jpg",
     url: "https://www.rohto.co.jp/",
   },
 ];
@@ -90,7 +90,7 @@ export const sometimesItems = [
     trigger: "アイクリーム",
     name: "リンクルアイクリーム",
     maker: "なめらか本舗",
-    img: "/public/sometimes_002.jpg",
+    img: "/public/assets/images/sometimes_002.jpg",
     url: "https://www.hisamitsu.co.jp/",
   },
   {
@@ -98,7 +98,7 @@ export const sometimesItems = [
     trigger: "皮脂抑制ジェル",
     name: "カラミー カラミンノーセバムジェル",
     maker: "花王",
-    img: "/public/sometimes_003.jpg",
+    img: "/public/assets/images/sometimes_003.jpg",
     url: "https://www.shop.rohto.co.jp/category/skincare/calamee/192250.html?srsltid=AfmBOooOnW_9YB0rnjHsfBFczqanBFVyy7hB-tWNvjIaXnLI8eifUf4Q",
   },
 ];
