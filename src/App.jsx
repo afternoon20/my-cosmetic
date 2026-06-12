@@ -8,7 +8,7 @@ import { morningItems, nightItems } from "./data/items";
 
 export default function App() {
   return (
-    <Box sx={{ bgcolor: "#f5f5f5", minHeight: "100vh", pb: 4 }}>
+    <Box sx={{ bgcolor: "#f5f5f5", minHeight: "100vh", pb: 8 }}>
       <Paper elevation={1} square sx={{ px: 2, py: 1.5, position: "sticky", top: 0, zIndex: 10, textAlign: "center" }}>
         <Typography variant="h6" fontWeight={700}>スキンケアまとめ</Typography>
       </Paper>

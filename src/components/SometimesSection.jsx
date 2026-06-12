@@ -6,7 +6,7 @@ import { sometimesItems } from "../data/items";
 
 export default function SometimesSection() {
   return (
-    <Paper elevation={0} sx={{ borderRadius: 3, p: 2, mb: 2, bgcolor: "white" }}>
+    <Paper elevation={0} sx={{ borderRadius: 3, p: 2, mb: 8, bgcolor: "white" }}>
       <Box sx={{ display: "flex", alignItems: "center", mb: 2 }}>
         <Avatar sx={{ bgcolor: "#fce4ec", width: 32, height: 32, mr: 1 }}>
           <HelpOutlineIcon sx={{ color: "#c2185b", fontSize: 18 }} />
