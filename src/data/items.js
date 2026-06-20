@@ -33,8 +33,8 @@ export const morningItems = [
   },
   {
     id: 4,
-    category: "フェイスクリーム",
-    name: "キュレル 潤浸保湿フェイスクリーム",
+    category: "保湿ジェル",
+    name: "キュレル　皮脂トラブルケア　保湿ジェル",
     maker: "花王",
     img: "assets/images/morning_004.jpg",
     url: "https://www.kao-kirei.com/ja/item/kbb/curel/4901301236210/?tw=kbb",
@@ -68,8 +68,8 @@ export const nightItems = [
   },
   {
     id: 4,
-    category: "フェイスクリーム",
-    name: "キュレル 潤浸保湿フェイスクリーム",
+    category: "保湿ジェル",
+    name: "キュレル　皮脂トラブルケア　保湿ジェル",
     maker: "花王",
     img: "assets/images/morning_004.jpg",
     url: "https://www.kao-kirei.com/ja/item/kbb/curel/4901301236210/?tw=kbb",
@@ -108,5 +108,13 @@ export const sometimesItems = [
     maker: "花王",
     img: "assets/images/sometimes_003.jpg",
     url: "https://www.shop.rohto.co.jp/category/skincare/calamee/192250.html?srsltid=AfmBOooOnW_9YB0rnjHsfBFczqanBFVyy7hB-tWNvjIaXnLI8eifUf4Q",
+  },
+  {
+    id: 4,
+    trigger: "洗顔クリーム",
+    name: "メンソレータムアクネス 薬用ふわふわな泡洗顔",
+    maker: "ロート製薬",
+    img: "assets/images/sometimes_004.jpg",
+    url: "https://jp.rohto.com/acnes/foaming-wash/",
   },
 ];
