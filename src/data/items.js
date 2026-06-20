@@ -39,6 +39,14 @@ export const morningItems = [
     img: "assets/images/morning_004.jpg",
     url: "https://www.kao-kirei.com/ja/item/kbb/curel/4901301236210/?tw=kbb",
   },
+  {
+    id: 5,
+    category: "アゼライン酸",
+    name: "AZAMAX +C",
+    maker: "ロート製薬",
+    img: "assets/images/morning_005.jpg",
+    url: "https://rohto-md.com/drx/products/aza/",
+  },
 ];
 
 export const nightItems = [
@@ -81,6 +89,14 @@ export const nightItems = [
     maker: "マルホ株式会社",
     img: "assets/images/night_005.jpg",
     url: "https://www.rohto.co.jp/",
+  },
+  {
+    id: 6,
+    category: "アゼライン酸",
+    name: "AZAMAX +C",
+    maker: "ロート製薬",
+    img: "assets/images/morning_005.jpg",
+    url: "https://rohto-md.com/drx/products/aza/",
   },
 ];
 
